@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: "World Models from Scratch"
+title: "Learning World Models by Building One From Scratch"
 date: 2026-10-09 00:00:00
 description: "Building video world models piece by piece through an open, hands-on community learning series."
 author: "Nahid Alam"
